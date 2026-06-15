@@ -391,16 +391,21 @@ extern "C" void Randomizer_InitSaveFile() {
         const bool maskQuestShuffled = Randomizer_GetSettingValue(RSK_MASK_QUEST) == RO_MASK_QUEST_SHUFFLE;
         GetItemEntry getItemEntry = Randomizer_GetItemFromKnownCheck(RC_SONG_FROM_IMPA, (GetItemID)RG_ZELDAS_LULLABY);
         StartingItemGive(getItemEntry, RC_SONG_FROM_IMPA);
-        getItemEntry = Randomizer_GetItemFromKnownCheck(RC_HC_MALON_EGG, (GetItemID)RG_WEIRD_EGG);
-        StartingItemGive(getItemEntry, RC_HC_MALON_EGG);
+        getItemEntry = Randomizer_GetItemFromKnownCheck(RC_HC_MALON_EGG,
+                                                        maskQuestShuffled ? (GetItemID)RG_NONE : (GetItemID)RG_WEIRD_EGG);
+        if (!maskQuestShuffled || getItemEntry.modIndex != MOD_NONE || getItemEntry.itemId != ITEM_NONE) {
+            StartingItemGive(getItemEntry, RC_HC_MALON_EGG);
+        }
         if (!maskQuestShuffled) {
             getItemEntry = Randomizer_GetItemFromKnownCheck(RC_HC_ZELDAS_LETTER, (GetItemID)RG_ZELDAS_LETTER);
             StartingItemGive(getItemEntry, RC_HC_ZELDAS_LETTER);
         }
 
         // Malon/Talon back at ranch.
-        Flags_SetEventChkInf(EVENTCHKINF_OBTAINED_POCKET_EGG);
-        Flags_SetRandomizerInf(RAND_INF_WEIRD_EGG);
+        if (!maskQuestShuffled) {
+            Flags_SetEventChkInf(EVENTCHKINF_OBTAINED_POCKET_EGG);
+            Flags_SetRandomizerInf(RAND_INF_WEIRD_EGG);
+        }
         Flags_SetEventChkInf(EVENTCHKINF_TALON_WOKEN_IN_CASTLE);
         Flags_SetEventChkInf(EVENTCHKINF_TALON_RETURNED_FROM_CASTLE);
 
