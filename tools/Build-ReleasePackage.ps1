@@ -6,7 +6,7 @@ $ErrorActionPreference = "Stop"
 
 $root = Resolve-Path (Join-Path $PSScriptRoot "..")
 $stage = Join-Path $root "build_out\ootxmm-harkinians-dinghy-$Version"
-$zip = "$stage.zip"
+$zip = Join-Path $root "build_out\soh-windows.zip"
 
 if (Test-Path $stage) {
     Remove-Item -LiteralPath $stage -Recurse -Force
