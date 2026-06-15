@@ -1,0 +1,8 @@
+{
+  "sohExe": "soh/soh.exe",
+  "twoShipExe": "2ship/2ship.exe",
+  "stateFile": "crossover_state.json",
+  "handoffFile": "crossover_handoff.json",
+  "pollMilliseconds": 250,
+  "gracefulExitMilliseconds": 5000
+}

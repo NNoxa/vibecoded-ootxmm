@@ -1,0 +1,71 @@
+diff --git a/include/ship/resource/archive/ArchiveManager.h b/include/ship/resource/archive/ArchiveManager.h
+index 813b0338..662598f6 100644
+--- a/include/ship/resource/archive/ArchiveManager.h
++++ b/include/ship/resource/archive/ArchiveManager.h
+@@ -24,6 +24,7 @@ class ArchiveManager {
+     std::shared_ptr<Archive> AddArchive(std::shared_ptr<Archive> archive);
+     std::shared_ptr<std::vector<std::shared_ptr<Archive>>> GetArchives();
+     void SetArchives(std::shared_ptr<std::vector<std::shared_ptr<Archive>>> archives);
++    void SetArchivesPreserveLoaded(std::shared_ptr<std::vector<std::shared_ptr<Archive>>> archives);
+     size_t RemoveArchive(std::shared_ptr<Archive> archive);
+     size_t RemoveArchive(const std::string& path);
+ 
+diff --git a/src/ship/resource/ResourceManager.cpp b/src/ship/resource/ResourceManager.cpp
+index 418fda52..916ad878 100644
+--- a/src/ship/resource/ResourceManager.cpp
++++ b/src/ship/resource/ResourceManager.cpp
+@@ -138,7 +138,7 @@ std::shared_ptr<IResource> ResourceManager::LoadResourceProcess(const ResourceId
+     }
+ 
+     // Get the file from the OTR
+-    auto file = LoadFileProcess(identifier.Path);
++    auto file = LoadFileProcess(identifier);
+     if (file == nullptr) {
+         SPDLOG_TRACE("Failed to load resource file at path {}", identifier.Path);
+         mResourceCache[identifier] = ResourceLoadError::NotFound;
+diff --git a/src/ship/resource/archive/ArchiveManager.cpp b/src/ship/resource/archive/ArchiveManager.cpp
+index 013a3f1b..4e1fa067 100644
+--- a/src/ship/resource/archive/ArchiveManager.cpp
++++ b/src/ship/resource/archive/ArchiveManager.cpp
+@@ -192,6 +192,41 @@ void ArchiveManager::SetArchives(std::shared_ptr<std::vector<std::shared_ptr<Arc
+     ResetVirtualFileSystem();
+ }
+ 
++void ArchiveManager::SetArchivesPreserveLoaded(std::shared_ptr<std::vector<std::shared_ptr<Archive>>> archives) {
++    const auto gameVersions = mGameVersions;
++    mArchives.clear();
++    mHashes.clear();
++    mDirectories.clear();
++    mFileToArchive.clear();
++
++    if (!archives) {
++        mGameVersions.clear();
++        return;
++    }
++
++    for (const auto& archive : *archives) {
++        if (archive == nullptr || !archive->IsLoaded()) {
++            continue;
++        }
++
++        mArchives.push_back(archive);
++
++        const auto fileList = archive->ListFiles();
++        for (auto& [hash, filename] : *fileList.get()) {
++            mHashes[hash] = filename;
++            mFileToArchive[hash] = archive;
++
++            size_t lastSlash = filename.find_last_of('/');
++            if (lastSlash != std::string::npos) {
++                std::string dir = filename.substr(0, lastSlash);
++                mDirectories.insert(dir);
++            }
++        }
++    }
++
++    mGameVersions = gameVersions;
++}
++
+ const std::string* ArchiveManager::HashToString(uint64_t hash) const {
+     auto it = mHashes.find(hash);
+     return it != mHashes.end() ? &it->second : nullptr;

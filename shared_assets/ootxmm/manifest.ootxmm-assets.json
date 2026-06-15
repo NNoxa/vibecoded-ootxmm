@@ -1,0 +1,132 @@
+{
+  "format": "ootxmm-assets",
+  "version": 1,
+  "assetRoot": "ootxmm",
+  "notes": "Stable cross-game model ids. Entries marked pending-port are known model targets that still need packed object/display-list data.",
+  "families": {
+    "xshared": {
+      "description": "Models represented in both games or intentionally shared between both games."
+    },
+    "xmm": {
+      "description": "Majora's Mask native models that need to render in Ocarina of Time."
+    },
+    "xoot": {
+      "description": "Ocarina of Time native models that need to render in Majora's Mask."
+    }
+  },
+  "models": {
+    "xshared.heart_piece": { "source": "shared", "status": "native-adapter" },
+    "xshared.heart_container": { "source": "shared", "status": "native-adapter" },
+    "xshared.recovery_heart": { "source": "shared", "status": "native-adapter" },
+    "xshared.rupee": { "source": "shared", "status": "native-adapter" },
+    "xshared.arrows": { "source": "shared", "status": "native-adapter" },
+    "xshared.bombs": { "source": "shared", "status": "native-adapter" },
+    "xshared.bombchu": { "source": "shared", "status": "native-adapter" },
+    "xshared.magic_jar_small": { "source": "shared", "status": "native-adapter" },
+    "xshared.magic_jar_large": { "source": "shared", "status": "native-adapter" },
+    "xshared.deku_seeds": { "source": "shared", "status": "native-adapter" },
+    "xshared.deku_nuts": { "source": "shared", "status": "native-adapter" },
+    "xshared.deku_sticks": { "source": "shared", "status": "native-adapter" },
+    "xshared.bomb_bag": { "source": "shared", "status": "native-adapter" },
+    "xshared.magic_beans": { "source": "shared", "status": "native-adapter" },
+    "xshared.double_defense": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.empty": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.bug": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.fish": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.fairy": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.milk": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.half_milk": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.red_potion": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.blue_potion": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.small_poe": { "source": "shared", "status": "native-adapter" },
+    "xshared.bottle.big_poe": { "source": "shared", "status": "native-adapter" },
+    "xshared.mask.goron": { "source": "shared", "status": "native-adapter" },
+    "xshared.mask.zora": { "source": "shared", "status": "native-adapter" },
+    "xshared.mask.keaton": { "source": "shared", "status": "native-adapter" },
+    "xshared.mask.truth": { "source": "shared", "status": "native-adapter" },
+    "xshared.mask.bunny": { "source": "shared", "status": "native-adapter" },
+    "xshared.ocarina_of_time": { "source": "shared", "status": "native-adapter" },
+    "xshared.song.time": { "source": "shared", "status": "native-adapter" },
+    "xshared.song.sun": { "source": "shared", "status": "native-adapter" },
+    "xshared.song.saria": { "source": "shared", "status": "native-adapter" },
+    "xshared.song.epona": { "source": "shared", "status": "native-adapter" },
+    "xshared.song.storms": { "source": "shared", "status": "native-adapter" },
+    "xmm.stray_fairy": { "source": "mm", "status": "pending-port" },
+    "xmm.owl_statue": {
+      "source": "mm",
+      "status": "pending-port",
+      "objectXml": "mm/assets/xml/N64_US/objects/object_owl.xml",
+      "displayLists": [
+        "gOwlPerchingLowerBodyDL",
+        "gOwlPerchingUpperBodyDL",
+        "gOwlPerchingHeadDL"
+      ],
+      "notes": "Needs a composite draw adapter; the native object is skeleton/limb based, not a single get-item display list."
+    },
+    "xmm.mask.deku": {
+      "source": "mm",
+      "status": "ready-for-pack",
+      "objectXml": "mm/assets/xml/N64_US/objects/object_mask_nuts.xml",
+      "displayLists": [ "object_mask_nuts_DL_001D90" ]
+    },
+    "xmm.mask.fierce_deity": { "source": "mm", "status": "pending-port" },
+    "xmm.mask.couple": {
+      "source": "mm",
+      "status": "ready-for-pack",
+      "objectXml": "mm/assets/xml/N64_US/objects/object_mask_meoto.xml",
+      "displayLists": [ "object_mask_meoto_DL_0005A0" ]
+    },
+    "xmm.mask.postman": {
+      "source": "mm",
+      "status": "ready-for-pack",
+      "objectXml": "mm/assets/xml/N64_US/objects/object_mask_posthat.xml",
+      "displayLists": [ "object_mask_posthat_DL_000290" ]
+    },
+    "xmm.mask.giant": {
+      "source": "mm",
+      "status": "ready-for-pack",
+      "objectXml": "mm/assets/xml/N64_US/objects/object_mask_kyojin.xml",
+      "displayLists": [ "object_mask_kyojin_DL_000380" ]
+    },
+    "xmm.mask.great_fairy": {
+      "source": "mm",
+      "status": "ready-for-pack",
+      "objectXml": "mm/assets/xml/N64_US/objects/object_mask_bigelf.xml",
+      "displayLists": [ "object_mask_bigelf_DL_0016F0" ]
+    },
+    "xmm.mask.blast": {
+      "source": "mm",
+      "status": "ready-for-pack",
+      "objectXml": "mm/assets/xml/N64_US/objects/object_mask_bakuretu.xml",
+      "displayLists": [ "object_mask_bakuretu_DL_000440" ]
+    },
+    "xmm.mask.gibdo": {
+      "source": "mm",
+      "status": "ready-for-pack",
+      "objectXml": "mm/assets/xml/N64_US/objects/object_mask_gibudo.xml",
+      "displayLists": [ "object_mask_gibudo_DL_000250" ]
+    },
+    "xmm.mask.garo": {
+      "source": "mm",
+      "status": "ready-for-pack",
+      "objectXml": "mm/assets/xml/N64_US/objects/object_gi_mask09.xml",
+      "displayLists": [ "gGiGarosMaskFaceDL" ]
+    },
+    "xmm.bottle.chateau_romani": { "source": "mm", "status": "pending-port" },
+    "xmm.bottle.gold_dust": { "source": "mm", "status": "pending-port" },
+    "xoot.rocs_feather": {
+      "source": "oot",
+      "status": "ready-for-pack",
+      "objectPath": "objects/object_rocs_feather",
+      "displayLists": [ "gGiRocsFeatherDL" ]
+    },
+    "xoot.hookshot": { "source": "oot", "status": "pending-port" },
+    "xoot.longshot": { "source": "oot", "status": "pending-port" },
+    "xoot.fishing_pole": {
+      "source": "oot",
+      "status": "ready-for-pack",
+      "objectPath": "objects/object_gi_fishing_pole",
+      "displayLists": [ "gFishingPoleGiDL" ]
+    }
+  }
+}

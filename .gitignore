@@ -1,0 +1,97 @@
+# Build output and staging
+build_out/
+build_tmp_mm/
+build_tmp_soh/
+build_tools/
+tmp/
+combo_example/
+alpha crossover/
+resources/
+**/build/
+**/x64/
+**/bin/
+**/obj/
+**/.vs/
+**/CMakeFiles/
+**/CMakeCache.txt
+
+# Local extracted/runtime folders
+extracted_win/
+roms/
+build_metadata/
+
+# ROM-derived archives and binaries
+*.z64
+*.n64
+*.v64
+*.rom
+*.otr
+*.o2r
+*.zip
+*.7z
+*.rar
+
+# Generated shared model payloads must be built locally from user ROMs.
+/shared_assets/ootxmm/assets/objects/*
+!/shared_assets/ootxmm/assets/objects/.gitkeep
+
+# Upstream/generated game asset payloads are extracted locally from user ROMs.
+/source files/Shipwright-9.2.3/soh/assets/code/
+/source files/Shipwright-9.2.3/soh/assets/custom/
+/source files/Shipwright-9.2.3/soh/assets/misc/
+/source files/Shipwright-9.2.3/soh/assets/objects/
+/source files/Shipwright-9.2.3/soh/assets/overlays/
+/source files/Shipwright-9.2.3/soh/assets/scenes/
+/source files/Shipwright-9.2.3/soh/assets/sources/
+/source files/Shipwright-9.2.3/soh/assets/textures/
+/source files/Shipwright-9.2.3/soh/assets/soh_assets.h
+/source files/2ship2harkinian-4.0.2/mm/assets/2s2h_assets.h
+/source files/2ship2harkinian-4.0.2/mm/assets/c/
+/source files/2ship2harkinian-4.0.2/mm/assets/custom/
+/source files/2ship2harkinian-4.0.2/mm/assets/objects/
+/source files/2ship2harkinian-4.0.2/mm/assets/overlays/
+/source files/2ship2harkinian-4.0.2/mm/assets/textures/
+
+# Compiled/debug artifacts
+*.exe
+*.dll
+*.pdb
+*.lib
+*.ilk
+*.exp
+*.obj
+*.log
+
+# Runtime state, saves, and generated seeds
+/Save/
+/saves/
+/logs/
+/debug/
+/Randomizer/
+/randomizer/
+*.sav
+*backup.json
+crossover_combo_settings.json
+crossover_dungeon_entrances.json
+crossover_dungeon_return.json
+crossover_dungeon_return_events.json
+crossover_handoff.json
+crossover_inventory.json
+crossover_last_dungeon_transition.json
+crossover_placements.json
+crossover_placements_preview.json
+crossover_seed.json
+crossover_state.json
+
+# Local UI/config churn
+imgui.ini
+shipofharkinian.json
+2ship2harkinian.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.user
+*.suo
+*.userosscache
+*.sln.docstates

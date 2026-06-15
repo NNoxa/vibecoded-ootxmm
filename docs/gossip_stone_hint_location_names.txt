@@ -1,0 +1,339 @@
+Gossip Stone WotH/Foolish Location Name Review
+Generated from crossover_placements.json hintAreaName values.
+Edit by adding your preferred replacement after the arrow, for example: Lh (OoT) -> Lake Hylia (OoT)
+
+Bottom Of The Well (OoT) ->
+  Games: oot; Major checks in current seed: 2/36
+  - Bottom Of The Well Basement Behind Rocks Grass 1 (OoT) [oot:Bottom of the Well Basement Behind Rocks Grass 1]
+  - Bottom Of The Well Basement Behind Rocks Grass 2 (OoT) [oot:Bottom of the Well Basement Behind Rocks Grass 2]
+  - Bottom Of The Well Basement Behind Rocks Grass 3 (OoT) [oot:Bottom of the Well Basement Behind Rocks Grass 3]
+  - Bottom Of The Well Basement Behind Rocks Grass 4 (OoT) [oot:Bottom of the Well Basement Behind Rocks Grass 4]
+  - Bottom Of The Well Basement Behind Rocks Grass 5 (OoT) [oot:Bottom of the Well Basement Behind Rocks Grass 5]
+
+Colossus (OoT) ->
+  Games: oot; Major checks in current seed: 1/7
+  - Colossus Deku Scrub Grotto Beehive (OoT) [oot:Colossus Deku Scrub Grotto Beehive]
+  - Colossus Deku Scrub Grotto Front (OoT) [oot:Colossus Deku Scrub Grotto Front]
+  - Colossus Deku Scrub Grotto Rear (OoT) [oot:Colossus Deku Scrub Grotto Rear]
+  - Colossus Freestanding Piece of Heart (OoT) [oot:Colossus Freestanding PoH]
+  - Colossus Gold Skulltula Bean Patch (OoT) [oot:Colossus GS Bean Patch]
+
+Death Mountain Crater (OoT) ->
+  Games: oot; Major checks in current seed: 1/20
+  - Death Mountain Crater Crate (OoT) [oot:DMC Crate]
+  - Death Mountain Crater Deku Scrub (OoT) [oot:DMC Deku Scrub]
+  - Death Mountain Crater Deku Scrub Grotto Center (OoT) [oot:DMC Deku Scrub Grotto Center]
+  - Death Mountain Crater Deku Scrub Grotto Left (OoT) [oot:DMC Deku Scrub Grotto Left]
+  - Death Mountain Crater Deku Scrub Grotto Right (OoT) [oot:DMC Deku Scrub Grotto Right]
+
+Death Mountain Trail (OoT) ->
+  Games: oot; Major checks in current seed: 2/27
+  - Death Mountain Trail Cow Grotto Beehive (OoT) [oot:DMT Cow Grotto Beehive]
+  - Death Mountain Trail Cow Grotto Cow (OoT) [oot:DMT Cow Grotto Cow]
+  - Death Mountain Trail Cow Grotto Grass 1 (OoT) [oot:DMT Cow Grotto Grass 1]
+  - Death Mountain Trail Cow Grotto Grass 2 (OoT) [oot:DMT Cow Grotto Grass 2]
+  - Death Mountain Trail Cow Grotto Left Heart (OoT) [oot:DMT Cow Grotto Left Heart]
+
+Deku Tree (OoT) ->
+  Games: oot; Major checks in current seed: 0/4
+  - Deku Tree Gold Skulltula Basement Back Room (OoT) [oot:Deku Tree GS Basement Back Room]
+  - Deku Tree Gold Skulltula Basement Gate (OoT) [oot:Deku Tree GS Basement Gate]
+  - Deku Tree Gold Skulltula Basement Vines (OoT) [oot:Deku Tree GS Basement Vines]
+  - Deku Tree Gold Skulltula Compass Room (OoT) [oot:Deku Tree GS Compass Room]
+
+Dodongo's Cavern (OoT) ->
+  Games: oot; Major checks in current seed: 7/42
+  - Death Mountain Trail Gold Skulltula Above Dodongos Cavern (OoT) [oot:DMT GS Above Dodongos Cavern]
+  - Dodongos Cavern Back Room Pot 1 (OoT) [oot:Dodongos Cavern Back Room Pot 1]
+  - Dodongos Cavern Back Room Pot 2 (OoT) [oot:Dodongos Cavern Back Room Pot 2]
+  - Dodongos Cavern Back Room Pot 3 (OoT) [oot:Dodongos Cavern Back Room Pot 3]
+  - Dodongos Cavern Back Room Pot 4 (OoT) [oot:Dodongos Cavern Back Room Pot 4]
+
+Fire Temple (OoT) ->
+  Games: oot; Major checks in current seed: 0/23
+  - Fire Temple After Hammer Small Crate 1 (OoT) [oot:Fire Temple After Hammer Small Crate 1]
+  - Fire Temple After Hammer Small Crate 2 (OoT) [oot:Fire Temple After Hammer Small Crate 2]
+  - Fire Temple Big Lava Pot 1 (OoT) [oot:Fire Temple Big Lava Pot 1]
+  - Fire Temple Big Lava Pot 2 (OoT) [oot:Fire Temple Big Lava Pot 2]
+  - Fire Temple Big Lava Pot 3 (OoT) [oot:Fire Temple Big Lava Pot 3]
+
+Forest Temple (OoT) ->
+  Games: oot; Major checks in current seed: 0/25
+  - Forest Temple Blue Poe Pot 1 (OoT) [oot:Forest Temple Blue Poe Pot 1]
+  - Forest Temple Blue Poe Pot 2 (OoT) [oot:Forest Temple Blue Poe Pot 2]
+  - Forest Temple Blue Poe Pot 3 (OoT) [oot:Forest Temple Blue Poe Pot 3]
+  - Forest Temple Boss Key Chest (OoT) [oot:Forest Temple Boss Key Chest]
+  - Forest Temple Frozen Eye Pot 1 (OoT) [oot:Forest Temple Frozen Eye Pot 1]
+
+Ganon's Castle (OoT) ->
+  Games: oot; Major checks in current seed: 6/31
+  - Ganon's Castle Deku Scrub Center Left (OoT) [oot:Ganon's Castle Deku Scrub Center-Left]
+  - Ganon's Castle Deku Scrub Center Right (OoT) [oot:Ganon's Castle Deku Scrub Center-Right]
+  - Ganon's Castle Deku Scrub Left (OoT) [oot:Ganon's Castle Deku Scrub Left]
+  - Ganon's Castle Deku Scrub Right (OoT) [oot:Ganon's Castle Deku Scrub Right]
+  - Ganon's Castle Ganons Tower Pot 1 (OoT) [oot:Ganon's Castle Ganons Tower Pot 1]
+
+Gc (OoT) ->
+  Games: oot; Major checks in current seed: 5/29
+  - Gc Darunia Pot 1 (OoT) [oot:GC Darunia Pot 1]
+  - Gc Darunia Pot 2 (OoT) [oot:GC Darunia Pot 2]
+  - Gc Darunia Pot 3 (OoT) [oot:GC Darunia Pot 3]
+  - Gc Darunias Joy (OoT) [oot:GC Darunias Joy]
+  - Gc Deku Scrub Grotto Center (OoT) [oot:GC Deku Scrub Grotto Center]
+
+Gerudo Fortress (OoT) ->
+  Games: oot; Major checks in current seed: 6/64
+  - Gerudo Fortress 1 Torch Carpenter (OoT) [oot:GF 1 Torch Carpenter]
+  - Gerudo Fortress 1 Torch Cell Crate (OoT) [oot:GF 1 Torch Cell Crate]
+  - Gerudo Fortress 1 Torch Cell Left Pot (OoT) [oot:GF 1 Torch Cell Left Pot]
+  - Gerudo Fortress 1 Torch Cell Middle Pot (OoT) [oot:GF 1 Torch Cell Middle Pot]
+  - Gerudo Fortress 1 Torch Cell Right Pot (OoT) [oot:GF 1 Torch Cell Right Pot]
+
+Gerudo Training Ground (OoT) ->
+  Games: oot; Major checks in current seed: 0/7
+  - Gerudo Training Ground Freestanding Key (OoT) [oot:Gerudo Training Ground Freestanding Key]
+  - Gerudo Training Ground Maze Path Final Chest (OoT) [oot:Gerudo Training Ground Maze Path Final Chest]
+  - Gerudo Training Ground Maze Path First Chest (OoT) [oot:Gerudo Training Ground Maze Path First Chest]
+  - Gerudo Training Ground Maze Path Second Chest (OoT) [oot:Gerudo Training Ground Maze Path Second Chest]
+  - Gerudo Training Ground Maze Path Third Chest (OoT) [oot:Gerudo Training Ground Maze Path Third Chest]
+
+Gerudo Valley (OoT) ->
+  Games: oot; Major checks in current seed: 1/12
+  - Gerudo Valley Cow (OoT) [oot:GV Cow]
+  - Gerudo Valley Crate Freestanding Piece of Heart (OoT) [oot:GV Crate Freestanding PoH]
+  - Gerudo Valley Deku Scrub Grotto Beehive (OoT) [oot:GV Deku Scrub Grotto Beehive]
+  - Gerudo Valley Deku Scrub Grotto Front (OoT) [oot:GV Deku Scrub Grotto Front]
+  - Gerudo Valley Deku Scrub Grotto Rear (OoT) [oot:GV Deku Scrub Grotto Rear]
+
+Graveyard (MM) ->
+  Games: mm; Major checks in current seed: 4/53
+  - Beneath The Graveyard Dampe Pot 01 (MM) [mm:RC_BENEATH_THE_GRAVEYARD_DAMPE_POT_01]
+  - Beneath The Graveyard Dampe Pot 02 (MM) [mm:RC_BENEATH_THE_GRAVEYARD_DAMPE_POT_02]
+  - Beneath The Graveyard Dampe Pot 03 (MM) [mm:RC_BENEATH_THE_GRAVEYARD_DAMPE_POT_03]
+  - Beneath The Graveyard Dampe Pot 04 (MM) [mm:RC_BENEATH_THE_GRAVEYARD_DAMPE_POT_04]
+  - Beneath The Graveyard Dampe Pot 05 (MM) [mm:RC_BENEATH_THE_GRAVEYARD_DAMPE_POT_05]
+
+Graveyard (OoT) ->
+  Games: oot; Major checks in current seed: 3/41
+  - Graveyard Dampe Gravedigging Tour (OoT) [oot:Graveyard Dampe Gravedigging Tour]
+  - Graveyard Dampe Race Freestanding Piece of Heart (OoT) [oot:Graveyard Dampe Race Freestanding PoH]
+  - Graveyard Dampes Grave Pot 1 (OoT) [oot:Graveyard Dampes Grave Pot 1]
+  - Graveyard Dampes Grave Pot 2 (OoT) [oot:Graveyard Dampes Grave Pot 2]
+  - Graveyard Dampes Grave Pot 3 (OoT) [oot:Graveyard Dampes Grave Pot 3]
+
+Hc (OoT) -> Castle Grounds
+  Games: oot; Major checks in current seed: 0/10
+  - Hc Gold Skulltula In Tree (OoT) [oot:HC GS in Tree]
+  - Hc Gold Skulltula Storms Grotto (OoT) [oot:HC GS Storms Grotto]
+  - Hc Malon Egg (OoT) [oot:HC Malon Egg]
+  - Hc Near Storms Grotto Grass 1 (OoT) [oot:HC Near Storms Grotto Grass 1]
+  - Hc Near Storms Grotto Grass 2 (OoT) [oot:HC Near Storms Grotto Grass 2]
+
+Hyrule Field (OoT) ->
+  Games: oot; Major checks in current seed: 5/85
+  - Hyrule Field Central Grass 1 (OoT) [oot:HF Central Grass 1]
+  - Hyrule Field Central Grass 10 (OoT) [oot:HF Central Grass 10]
+  - Hyrule Field Central Grass 11 (OoT) [oot:HF Central Grass 11]
+  - Hyrule Field Central Grass 12 (OoT) [oot:HF Central Grass 12]
+  - Hyrule Field Central Grass 2 (OoT) [oot:HF Central Grass 2]
+
+Ice Cavern (OoT) ->
+  Games: oot; Major checks in current seed: 1/12
+  - Ice Cavern Freestanding Piece of Heart (OoT) [oot:Ice Cavern Freestanding PoH]
+  - Ice Cavern Frozen Pot 1 (OoT) [oot:Ice Cavern Frozen Pot 1]
+  - Ice Cavern Gold Skulltula Heart Piece Room (OoT) [oot:Ice Cavern GS Heart Piece Room]
+  - Ice Cavern Gold Skulltula Push Block Room (OoT) [oot:Ice Cavern GS Push Block Room]
+  - Ice Cavern Gold Skulltula Spinning Scythe Room (OoT) [oot:Ice Cavern GS Spinning Scythe Room]
+
+Jabu-Jabu's Belly (OoT) ->
+  Games: oot; Major checks in current seed: 0/22
+  - Jabu Jabus Belly Above Big Octo Pot 1 (OoT) [oot:Jabu Jabus Belly Above Big Octo Pot 1]
+  - Jabu Jabus Belly Above Big Octo Pot 2 (OoT) [oot:Jabu Jabus Belly Above Big Octo Pot 2]
+  - Jabu Jabus Belly Above Big Octo Pot 3 (OoT) [oot:Jabu Jabus Belly Above Big Octo Pot 3]
+  - Jabu Jabus Belly Basement Pot 1 (OoT) [oot:Jabu Jabus Belly Basement Pot 1]
+  - Jabu Jabus Belly Basement Pot 2 (OoT) [oot:Jabu Jabus Belly Basement Pot 2]
+
+Kakariko Village (OoT) ->
+  Games: oot; Major checks in current seed: 8/72
+  - Kakariko 10 Gold Skulltula Reward (OoT) [oot:Kak 10 Gold Skulltula Reward]
+  - Kakariko 20 Gold Skulltula Reward (OoT) [oot:Kak 20 Gold Skulltula Reward]
+  - Kakariko 30 Gold Skulltula Reward (OoT) [oot:Kak 30 Gold Skulltula Reward]
+  - Kakariko 40 Gold Skulltula Reward (OoT) [oot:Kak 40 Gold Skulltula Reward]
+  - Kakariko 50 Gold Skulltula Reward (OoT) [oot:Kak 50 Gold Skulltula Reward]
+
+Kokiri Forest (OoT) ->
+  Games: oot; Major checks in current seed: 1/69
+  - Kokiri Forest Adult Grass 1 (OoT) [oot:KF Adult Grass 1]
+  - Kokiri Forest Adult Grass 10 (OoT) [oot:KF Adult Grass 10]
+  - Kokiri Forest Adult Grass 11 (OoT) [oot:KF Adult Grass 11]
+  - Kokiri Forest Adult Grass 12 (OoT) [oot:KF Adult Grass 12]
+  - Kokiri Forest Adult Grass 13 (OoT) [oot:KF Adult Grass 13]
+
+Lake Hylia (OoT) ->
+  Games: oot; Major checks in current seed: 6/55
+  - Lake Hylia Child Grass 1 (OoT) [oot:LH Child Grass 1]
+  - Lake Hylia Child Grass 2 (OoT) [oot:LH Child Grass 2]
+  - Lake Hylia Child Grass 3 (OoT) [oot:LH Child Grass 3]
+  - Lake Hylia Child Grass 4 (OoT) [oot:LH Child Grass 4]
+  - Lake Hylia Deku Scrub Grotto Beehive (OoT) [oot:LH Deku Scrub Grotto Beehive]
+
+Lon Lon Ranch (OoT) ->
+  Games: oot; Major checks in current seed: 2/23
+  - Lon Lon Ranch Deku Scrub Grotto Beehive (OoT) [oot:LLR Deku Scrub Grotto Beehive]
+  - Lon Lon Ranch Deku Scrub Grotto Center (OoT) [oot:LLR Deku Scrub Grotto Center]
+  - Lon Lon Ranch Deku Scrub Grotto Left (OoT) [oot:LLR Deku Scrub Grotto Left]
+  - Lon Lon Ranch Deku Scrub Grotto Right (OoT) [oot:LLR Deku Scrub Grotto Right]
+  - Lon Lon Ranch Freestanding Piece of Heart (OoT) [oot:LLR Freestanding PoH]
+
+Lost Woods (OoT) ->
+  Games: oot; Major checks in current seed: 2/33
+  - Lost Woods After Mido Grass 1 (OoT) [oot:LW After Mido Grass 1]
+  - Lost Woods After Mido Grass 2 (OoT) [oot:LW After Mido Grass 2]
+  - Lost Woods After Mido Grass 3 (OoT) [oot:LW After Mido Grass 3]
+  - Lost Woods Deku Scrub Grotto Beehive (OoT) [oot:LW Deku Scrub Grotto Beehive]
+  - Lost Woods Deku Scrub Grotto Front (OoT) [oot:LW Deku Scrub Grotto Front]
+
+Market (OoT) ->
+  Games: oot; Major checks in current seed: 9/105
+  - Market 10 Big Poes (OoT) [oot:Market 10 Big Poes]
+  - Market Back Alley House Pot 1 (OoT) [oot:Market Back Alley House Pot 1]
+  - Market Back Alley House Pot 2 (OoT) [oot:Market Back Alley House Pot 2]
+  - Market Back Alley House Pot 3 (OoT) [oot:Market Back Alley House Pot 3]
+  - Market Bazaar Item 1 (OoT) [oot:Market Bazaar Item 1]
+
+Moon (MM) ->
+  Games: mm; Major checks in current seed: 5/26
+  - Moon Trial Deku Piece Of Heart (MM) [mm:RC_MOON_TRIAL_DEKU_PIECE_OF_HEART]
+  - Moon Trial Goron Early Pot 01 (MM) [mm:RC_MOON_TRIAL_GORON_EARLY_POT_01]
+  - Moon Trial Goron Early Pot 02 (MM) [mm:RC_MOON_TRIAL_GORON_EARLY_POT_02]
+  - Moon Trial Goron Early Pot 03 (MM) [mm:RC_MOON_TRIAL_GORON_EARLY_POT_03]
+  - Moon Trial Goron Early Pot 04 (MM) [mm:RC_MOON_TRIAL_GORON_EARLY_POT_04]
+
+Moon (OoT) -> Ganon's Castle
+  Games: oot; Major checks in current seed: 2/16
+  - Ganon's Castle Fire Trial Pot 1 (OoT) [oot:Ganon's Castle Fire Trial Pot 1]
+  - Ganon's Castle Fire Trial Pot 2 (OoT) [oot:Ganon's Castle Fire Trial Pot 2]
+  - Ganon's Castle Forest Trial Pot 1 (OoT) [oot:Ganon's Castle Forest Trial Pot 1]
+  - Ganon's Castle Forest Trial Pot 2 (OoT) [oot:Ganon's Castle Forest Trial Pot 2]
+  - Ganon's Castle Light Trial Boulder Pot 1 (OoT) [oot:Ganon's Castle Light Trial Boulder Pot 1]
+
+Ocarina Songs (OoT) -> Child Song Checks (OoT)
+  Games: oot; Major checks in current seed: 0/3
+  - Song From Impa (OoT) [oot:Song from Impa]
+  - Song From Malon (OoT) [oot:Song from Malon]
+  - Song From Royal Family's Tomb (OoT) [oot:Song from Royal Family's Tomb]
+
+Pirates' Fortress (MM) ->
+  Games: mm; Major checks in current seed: 8/58
+  - Pirate Fortress Captain Room Barrel 01 (MM) [mm:RC_PIRATE_FORTRESS_CAPTAIN_ROOM_BARREL_01]
+  - Pirate Fortress Captain Room Barrel 02 (MM) [mm:RC_PIRATE_FORTRESS_CAPTAIN_ROOM_BARREL_02]
+  - Pirate Fortress Entrance Barrel (MM) [mm:RC_PIRATE_FORTRESS_ENTRANCE_BARREL]
+  - Pirate Fortress Interior Barrel Maze Pot 01 (MM) [mm:RC_PIRATE_FORTRESS_INTERIOR_BARREL_MAZE_POT_01]
+  - Pirate Fortress Interior Barrel Maze Pot 02 (MM) [mm:RC_PIRATE_FORTRESS_INTERIOR_BARREL_MAZE_POT_02]
+
+Rc (MM) -> Ikana Castle
+  Games: mm; Major checks in current seed: 115/1592
+  - Ancient Castle Of Ikana Boss Pot 01 (MM) [mm:RC_ANCIENT_CASTLE_OF_IKANA_BOSS_POT_01]
+  - Ancient Castle Of Ikana Boss Pot 02 (MM) [mm:RC_ANCIENT_CASTLE_OF_IKANA_BOSS_POT_02]
+  - Ancient Castle Of Ikana Boss Pot 03 (MM) [mm:RC_ANCIENT_CASTLE_OF_IKANA_BOSS_POT_03]
+  - Ancient Castle Of Ikana Boss Pot 04 (MM) [mm:RC_ANCIENT_CASTLE_OF_IKANA_BOSS_POT_04]
+  - Ancient Castle Of Ikana Boss Pot 05 (MM) [mm:RC_ANCIENT_CASTLE_OF_IKANA_BOSS_POT_05]
+
+Sacred Forest Meadow (OoT) ->
+  Games: oot; Major checks in current seed: 2/12
+  - Sacred Forest Meadow Deku Scrub Grotto Beehive (OoT) [oot:SFM Deku Scrub Grotto Beehive]
+  - Sacred Forest Meadow Deku Scrub Grotto Front (OoT) [oot:SFM Deku Scrub Grotto Front]
+  - Sacred Forest Meadow Deku Scrub Grotto Rear (OoT) [oot:SFM Deku Scrub Grotto Rear]
+  - Sacred Forest Meadow Fairy Grotto Fairy 1 (OoT) [oot:SFM Fairy Grotto Fairy 1]
+  - Sacred Forest Meadow Fairy Grotto Fairy 2 (OoT) [oot:SFM Fairy Grotto Fairy 2]
+
+Shadow Temple (OoT) ->
+  Games: oot; Major checks in current seed: 2/26
+  - Shadow Temple After Boat Pot 1 (OoT) [oot:Shadow Temple After Boat Pot 1]
+  - Shadow Temple After Boat Pot 2 (OoT) [oot:Shadow Temple After Boat Pot 2]
+  - Shadow Temple After Boat Pot 3 (OoT) [oot:Shadow Temple After Boat Pot 3]
+  - Shadow Temple After Boat Pot 4 (OoT) [oot:Shadow Temple After Boat Pot 4]
+  - Shadow Temple After Wind Pot 1 (OoT) [oot:Shadow Temple After Wind Pot 1]
+
+Sheik (OoT) -> Finding Bolero of Fire
+  Games: oot; Major checks in current seed: 0/1
+  - Sheik In Crater (OoT) [oot:Sheik in Crater]
+
+Snowhead (MM) ->
+  Games: mm; Major checks in current seed: 6/129
+  - Path To Snowhead Grotto Grass 01 (MM) [mm:RC_PATH_TO_SNOWHEAD_GROTTO_GRASS_01]
+  - Path To Snowhead Grotto Grass 02 (MM) [mm:RC_PATH_TO_SNOWHEAD_GROTTO_GRASS_02]
+  - Path To Snowhead Grotto Grass 03 (MM) [mm:RC_PATH_TO_SNOWHEAD_GROTTO_GRASS_03]
+  - Path To Snowhead Grotto Grass 04 (MM) [mm:RC_PATH_TO_SNOWHEAD_GROTTO_GRASS_04]
+  - Path To Snowhead Grotto Grass 05 (MM) [mm:RC_PATH_TO_SNOWHEAD_GROTTO_GRASS_05]
+
+Spirit Temple (OoT) ->
+  Games: oot; Major checks in current seed: 1/24
+  - Spirit Temple After Sun Block Pot 1 (OoT) [oot:Spirit Temple After Sun Block Pot 1]
+  - Spirit Temple After Sun Block Pot 2 (OoT) [oot:Spirit Temple After Sun Block Pot 2]
+  - Spirit Temple Anubis Pot 1 (OoT) [oot:Spirit Temple Anubis Pot 1]
+  - Spirit Temple Anubis Pot 2 (OoT) [oot:Spirit Temple Anubis Pot 2]
+  - Spirit Temple Anubis Pot 3 (OoT) [oot:Spirit Temple Anubis Pot 3]
+
+Wasteland (OoT) ->
+  Games: oot; Major checks in current seed: 1/11
+  - Wasteland After Quicksand Crate 1 (OoT) [oot:Wasteland After Quicksand Crate 1]
+  - Wasteland After Quicksand Crate 2 (OoT) [oot:Wasteland After Quicksand Crate 2]
+  - Wasteland After Quicksand Crate 3 (OoT) [oot:Wasteland After Quicksand Crate 3]
+  - Wasteland Before Quicksand Crate (OoT) [oot:Wasteland Before Quicksand Crate]
+  - Wasteland Carpet Salesman (OoT) [oot:Wasteland Carpet Salesman]
+
+Water Temple (OoT) ->
+  Games: oot; Major checks in current seed: 1/29
+  - Water Temple Basement Block Puzzle Pot 1 (OoT) [oot:Water Temple Basement Block Puzzle Pot 1]
+  - Water Temple Basement Block Puzzle Pot 2 (OoT) [oot:Water Temple Basement Block Puzzle Pot 2]
+  - Water Temple Behind Gate Pot 1 (OoT) [oot:Water Temple Behind Gate Pot 1]
+  - Water Temple Behind Gate Pot 2 (OoT) [oot:Water Temple Behind Gate Pot 2]
+  - Water Temple Behind Gate Pot 3 (OoT) [oot:Water Temple Behind Gate Pot 3]
+
+Woodfall (MM) ->
+  Games: mm; Major checks in current seed: 3/41
+  - Woodfall Freestanding Rupee (MM) [mm:RC_WOODFALL_FREESTANDING_RUPEE]
+  - Woodfall Grass 01 (MM) [mm:RC_WOODFALL_GRASS_01]
+  - Woodfall Grass 02 (MM) [mm:RC_WOODFALL_GRASS_02]
+  - Woodfall Grass 03 (MM) [mm:RC_WOODFALL_GRASS_03]
+  - Woodfall Grass 04 (MM) [mm:RC_WOODFALL_GRASS_04]
+
+Zora Hall (MM) ->
+  Games: mm; Major checks in current seed: 1/30
+  - Moon Trial Zora Piece Of Heart (MM) [mm:RC_MOON_TRIAL_ZORA_PIECE_OF_HEART]
+  - Zora Cape Grotto Grass 01 (MM) [mm:RC_ZORA_CAPE_GROTTO_GRASS_01]
+  - Zora Cape Grotto Grass 02 (MM) [mm:RC_ZORA_CAPE_GROTTO_GRASS_02]
+  - Zora Cape Grotto Grass 03 (MM) [mm:RC_ZORA_CAPE_GROTTO_GRASS_03]
+  - Zora Cape Grotto Grass 04 (MM) [mm:RC_ZORA_CAPE_GROTTO_GRASS_04]
+
+Zora Hall (OoT) -> Zora's Domain (Combine this one with the other zora's domain)
+  Games: oot; Major checks in current seed: 0/3
+  - Zora's Domain Behind King Zora Beehive (OoT) [oot:ZD Behind King Zora Beehive]
+  - Zora's Domain In Front Of King Zora Beehive Left (OoT) [oot:ZD In Front of King Zora Beehive Left]
+  - Zora's Domain In Front Of King Zora Beehive Right (OoT) [oot:ZD In Front of King Zora Beehive Right]
+
+Zora's Domain (OoT) ->
+  Games: oot; Major checks in current seed: 0/24
+  - Zora's Domain Diving Minigame (OoT) [oot:ZD Diving Minigame]
+  - Zora's Domain Fairy Grotto Fairy 1 (OoT) [oot:ZD Fairy Grotto Fairy 1]
+  - Zora's Domain Fairy Grotto Fairy 2 (OoT) [oot:ZD Fairy Grotto Fairy 2]
+  - Zora's Domain Fairy Grotto Fairy 3 (OoT) [oot:ZD Fairy Grotto Fairy 3]
+  - Zora's Domain Fairy Grotto Fairy 4 (OoT) [oot:ZD Fairy Grotto Fairy 4]
+
+Zora's Fountain (OoT) ->
+  Games: oot; Major checks in current seed: 1/8
+  - Zora's Fountain Bottom Freestanding Piece of Heart (OoT) [oot:ZF Bottom Freestanding PoH]
+  - Zora's Fountain Gold Skulltula Above The Log (OoT) [oot:ZF GS Above The Log]
+  - Zora's Fountain Gold Skulltula Hidden Cave (OoT) [oot:ZF GS Hidden Cave]
+  - Zora's Fountain Gold Skulltula Tree (OoT) [oot:ZF GS Tree]
+  - Zora's Fountain Hidden Cave Pot 1 (OoT) [oot:ZF Hidden Cave Pot 1]
+
+Zora's River (OoT) ->
+  Games: oot; Major checks in current seed: 2/31
+  - Zora's River Deku Scrub Grotto Front (OoT) [oot:ZR Deku Scrub Grotto Front]
+  - Zora's River Deku Scrub Grotto Rear (OoT) [oot:ZR Deku Scrub Grotto Rear]
+  - Zora's River Fairy Grotto Fairy 1 (OoT) [oot:ZR Fairy Grotto Fairy 1]
+  - Zora's River Fairy Grotto Fairy 2 (OoT) [oot:ZR Fairy Grotto Fairy 2]
+  - Zora's River Fairy Grotto Fairy 3 (OoT) [oot:ZR Fairy Grotto Fairy 3]
+

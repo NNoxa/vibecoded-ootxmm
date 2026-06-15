@@ -1,0 +1,18 @@
+[submodule "source files/2ship2harkinian-4.0.2/OTRExporter"]
+	path = source files/2ship2harkinian-4.0.2/OTRExporter
+	url = https://github.com/HarbourMasters/OTRExporter.git
+[submodule "source files/2ship2harkinian-4.0.2/ZAPDTR"]
+	path = source files/2ship2harkinian-4.0.2/ZAPDTR
+	url = https://github.com/HarbourMasters/ZAPDTR.git
+[submodule "source files/2ship2harkinian-4.0.2/libultraship"]
+	path = source files/2ship2harkinian-4.0.2/libultraship
+	url = https://github.com/kenix3/libultraship.git
+[submodule "source files/Shipwright-9.2.3/OTRExporter"]
+	path = source files/Shipwright-9.2.3/OTRExporter
+	url = https://github.com/harbourmasters/OTRExporter
+[submodule "source files/Shipwright-9.2.3/ZAPDTR"]
+	path = source files/Shipwright-9.2.3/ZAPDTR
+	url = https://github.com/harbourmasters/ZAPDTR
+[submodule "source files/Shipwright-9.2.3/libultraship"]
+	path = source files/Shipwright-9.2.3/libultraship
+	url = https://github.com/kenix3/libultraship.git
