@@ -1,4 +1,4 @@
-# [VIBECODED] SoHx2s2h Randomizer - Alpha Out NOW
+# [VIBECODED] SoHx2s2h Randomizer - Alpha Out NOW (AI-SLOP) (UNOFFICIAL)
 
 # [PLEASE READ!]
 
