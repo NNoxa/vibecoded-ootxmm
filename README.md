@@ -4,7 +4,7 @@
 
 [NEED PLAYTESTERS!] - Expect Bugs/Crashes!
 
-Github Link: https://github.com/NNoxa/ootxmm-harkinians-dinghy
+Github Link: https://github.com/NNoxa/vibecoded-ootxmm
 
 
 This uses SoH ver. Ackbar Delta 9.2.3 and 2ship ver. Keiichi Charlie 4.0.2. This is in no way associated with official Harbour Masters 64 Projects.
