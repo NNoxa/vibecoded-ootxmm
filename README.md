@@ -21,6 +21,8 @@ I recommend enabling pause menu saving and autosaving in MM
 
 There's a very inconvenient bug in the Alpha version, where the first time making a seed after generating .o2r, MM items cannot be found in OoT until player has gone into MM. The first time after going into MM fixes this issue permanently, and you can delete that first save and regenerate it with the same seed to fix it.
 
+Also note there are no implementations added to support Anchor.
+
 # FEATURES
 
 MM Transformation Masks in OoT:
