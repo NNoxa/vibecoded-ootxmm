@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Runtime.InteropServices;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
@@ -75,6 +76,7 @@ internal static class Program {
             return 0;
         } catch (Exception ex) {
             Console.Error.WriteLine(ex);
+            ShowFatalError(ex);
             return 1;
         }
     }
@@ -278,14 +280,6 @@ internal static class Program {
     private static void BootstrapMissingGameArchives(string root, LauncherConfig config) {
         var bootstrapped = false;
 
-        if (!HasGameArchive(root, GameId.Oot) && !HasFirstRunRom(root, GameId.Oot)) {
-            throw new FileNotFoundException($"oot.o2r is missing and no OoT ROM was found in {Path.Combine(root, "roms")}.");
-        }
-
-        if (!HasGameArchive(root, GameId.Mm) && !HasFirstRunRom(root, GameId.Mm)) {
-            throw new FileNotFoundException($"mm.o2r is missing and no MM ROM was found in {Path.Combine(root, "roms")}.");
-        }
-
         if (!HasGameArchive(root, GameId.Oot)) {
             Console.WriteLine("oot.o2r is missing. Starting SoH first so it can generate the OoT game archive.");
             RunUntilArchiveExists(root, config, GameId.Oot);
@@ -304,6 +298,19 @@ internal static class Program {
             Console.WriteLine("First-run archive bootstrap complete. Starting normal crossover flow.");
         }
     }
+
+    private static void ShowFatalError(Exception ex) {
+        var message = ex switch {
+            FileNotFoundException fileNotFound when !string.IsNullOrWhiteSpace(fileNotFound.FileName) =>
+                $"{fileNotFound.Message}{Environment.NewLine}{Environment.NewLine}Missing file:{Environment.NewLine}{fileNotFound.FileName}",
+            _ => ex.Message,
+        };
+
+        _ = MessageBoxW(IntPtr.Zero, message, "OoTxMM Launcher Error", 0x00000010);
+    }
+
+    [DllImport("user32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
+    private static extern int MessageBoxW(IntPtr hWnd, string text, string caption, uint type);
 
     private static void RunUntilArchiveExists(string root, LauncherConfig config, GameId game) {
         using var process = StartGame(root, config, game);

@@ -2,6 +2,10 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net9.0-windows</TargetFramework>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <AssemblyName>SoH2ShipCrossover</AssemblyName>
